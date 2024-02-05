@@ -7,5 +7,11 @@ public class Caterpillar {
 	{
 		this.moves=moves;
 		this.cabbages=cabbages;
+
+	}
+	int moves() {
+		return moves;
 	}
 }
+
+ 
